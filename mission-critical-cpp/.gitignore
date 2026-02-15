@@ -1,0 +1,25 @@
+# Java
+*.class
+*.jar
+
+# C++ 
+*.o
+*.out
+radar_test
+vessel_check
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# --- OS Specific Files ---
+.DS_Store         
+Thumbs.db          
+desktop.ini        
+.directory          
+
+# --- IDEs & Editors ---
+.vscode/           
+.idea/              
+*.swp           
