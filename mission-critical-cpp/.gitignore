@@ -17,9 +17,4 @@ vessel_check
 .DS_Store         
 Thumbs.db          
 desktop.ini        
-.directory          
-
-# --- IDEs & Editors ---
-.vscode/           
-.idea/              
-*.swp           
+.directory               
